@@ -20,6 +20,19 @@
 
 * your `Host name = Your_domain_name`, `Destination IPv4 Address = Your-ip_address`, `TTL = Default`.
 
+### Final step)
+
+* if you go through the right processes you should have the following in aactive status.
+
+![DNS final](https://user-images.githubusercontent.com/106968663/214128855-bfb5aea2-f52e-4685-aae1-deea407778d2.png)
+
+### Conclusion
+
+* you should be able to open your domain_name in your brower.
+
+![DNS conclud](https://user-images.githubusercontent.com/106968663/214129539-759edcce-6448-43ae-9363-5d000974af1f.png)
+
+
 # :books: Author :pen:
 
 [Mustapha Aliyu Galadima](https://github.com/MG-Musty/)
